@@ -1,0 +1,80 @@
+24-06-02.21:11:47.074 [main            ] INFO  AwardTest              - Starting AwardTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 32136 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-02.21:11:47.075 [main            ] INFO  AwardTest              - The following 1 profile is active: "dev"
+24-06-02.21:11:49.463 [main            ] INFO  AwardTest              - Started AwardTest in 2.787 seconds (JVM running for 3.515)
+24-06-02.21:12:57.818 [main            ] INFO  AwardTest              - Starting AwardTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 29276 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-02.21:12:57.820 [main            ] INFO  AwardTest              - The following 1 profile is active: "dev"
+24-06-02.21:12:59.988 [main            ] INFO  AwardTest              - Started AwardTest in 2.59 seconds (JVM running for 3.296)
+24-06-02.21:14:09.986 [main            ] INFO  AwardTest              - Starting AwardTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 12736 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-02.21:14:09.988 [main            ] INFO  AwardTest              - The following 1 profile is active: "dev"
+24-06-02.21:14:12.303 [main            ] INFO  AwardTest              - Started AwardTest in 2.721 seconds (JVM running for 3.396)
+24-06-02.21:15:58.110 [main            ] INFO  AwardTest              - Starting AwardTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 9580 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-02.21:15:58.111 [main            ] INFO  AwardTest              - The following 1 profile is active: "dev"
+24-06-02.21:16:00.314 [main            ] INFO  AwardTest              - Started AwardTest in 2.634 seconds (JVM running for 3.386)
+24-06-02.21:17:26.762 [main            ] INFO  AwardTest              - Starting AwardTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 17644 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-02.21:17:26.763 [main            ] INFO  AwardTest              - The following 1 profile is active: "dev"
+24-06-02.21:17:29.014 [main            ] INFO  AwardTest              - Started AwardTest in 2.663 seconds (JVM running for 3.355)
+24-06-02.21:18:13.069 [main            ] INFO  AwardTest              - Starting AwardTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 29732 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-02.21:18:13.071 [main            ] INFO  AwardTest              - The following 1 profile is active: "dev"
+24-06-02.21:18:15.397 [main            ] INFO  AwardTest              - Started AwardTest in 2.77 seconds (JVM running for 3.529)
+24-06-02.21:23:11.362 [main            ] INFO  AwardTest              - Starting AwardTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 22364 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-02.21:23:11.364 [main            ] INFO  AwardTest              - The following 1 profile is active: "dev"
+24-06-02.21:23:13.739 [main            ] INFO  AwardTest              - Started AwardTest in 2.86 seconds (JVM running for 3.612)
+24-06-02.21:23:47.892 [main            ] INFO  AwardTest              - Starting AwardTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 12804 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-02.21:23:47.893 [main            ] INFO  AwardTest              - The following 1 profile is active: "dev"
+24-06-02.21:23:50.208 [main            ] INFO  AwardTest              - Started AwardTest in 2.739 seconds (JVM running for 3.452)
+24-06-02.21:28:42.451 [main            ] INFO  AwardTest              - Starting AwardTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 10328 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-02.21:28:42.452 [main            ] INFO  AwardTest              - The following 1 profile is active: "dev"
+24-06-02.21:28:44.658 [main            ] INFO  AwardTest              - Started AwardTest in 2.642 seconds (JVM running for 3.373)
+24-06-02.21:31:17.662 [main            ] INFO  AwardTest              - Starting AwardTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 2100 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-02.21:31:17.664 [main            ] INFO  AwardTest              - The following 1 profile is active: "dev"
+24-06-02.21:31:19.995 [main            ] INFO  AwardTest              - Started AwardTest in 2.761 seconds (JVM running for 3.469)
+24-06-02.21:31:46.964 [main            ] INFO  AwardTest              - Starting AwardTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 17768 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-02.21:31:46.965 [main            ] INFO  AwardTest              - The following 1 profile is active: "dev"
+24-06-02.21:31:49.284 [main            ] INFO  AwardTest              - Started AwardTest in 2.819 seconds (JVM running for 3.681)
+24-06-02.21:34:38.935 [main            ] INFO  AwardTest              - Starting AwardTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 14704 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-02.21:34:38.937 [main            ] INFO  AwardTest              - The following 1 profile is active: "dev"
+24-06-02.21:34:41.532 [main            ] INFO  AwardTest              - Started AwardTest in 3.025 seconds (JVM running for 3.836)
+24-06-02.21:35:53.452 [main            ] INFO  ApiTest                - Starting ApiTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 32176 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-02.21:35:53.453 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-06-02.21:35:55.699 [main            ] INFO  ApiTest                - Started ApiTest in 2.676 seconds (JVM running for 3.385)
+24-06-02.21:35:56.413 [main            ] INFO  ApiTest                - 测试完成
+24-06-02.21:37:16.700 [main            ] INFO  ApiTest                - Starting ApiTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 26988 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-02.21:37:16.701 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-06-02.21:37:19.299 [main            ] INFO  ApiTest                - Started ApiTest in 3.067 seconds (JVM running for 3.815)
+24-06-02.21:38:33.339 [main            ] INFO  ApiTest                - Starting ApiTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 30512 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-02.21:38:33.340 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-06-02.21:38:35.588 [main            ] INFO  ApiTest                - Started ApiTest in 2.703 seconds (JVM running for 3.42)
+24-06-02.21:41:09.111 [main            ] INFO  ApiTest                - Starting ApiTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 14588 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-02.21:41:09.112 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-06-02.21:41:11.464 [main            ] INFO  ApiTest                - Started ApiTest in 2.783 seconds (JVM running for 3.503)
+24-06-02.21:41:12.504 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-06-02.21:41:12.926 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-06-02.21:41:13.240 [main            ] INFO  ApiTest                - 测试完成：[{"awardConfig":"1,100","awardDesc":"用户积分","awardId":"101","awardKey":"user_credit_random","createTime":"2024-06-01 05:20:49","updateTime":"2024-06-01 05:20:49"},{"awardConfig":"5","awardDesc":"openai增加使用次数","awardId":"102","awardKey":"openai_user_count","createTime":"2024-06-01 05:21:40","updateTime":"2024-06-01 05:21:40"},{"awardConfig":"10","awardDesc":"openai增加使用次数","awardId":"103","awardKey":"openai_user_count","createTime":"2024-06-01 05:22:47","updateTime":"2024-06-01 05:22:47"},{"awardConfig":"20","awardDesc":"openai增加使用次数","awardId":"104","awardKey":"openai_user_count","createTime":"2024-06-01 05:23:50","updateTime":"2024-06-01 05:23:50"},{"awardConfig":"GPT-4","awardDesc":"获得openai模型","awardId":"105","awardKey":"openai_model","createTime":"2024-06-01 05:32:37","updateTime":"2024-06-01 05:32:37"},{"awardConfig":"DALLE-2","awardDesc":"获得openai模型","awardId":"106","awardKey":"openai_model","createTime":"2024-06-01 05:34:01","updateTime":"2024-06-01 05:34:01"},{"awardConfig":"DALLE-3","awardDesc":"获得openai模型","awardId":"107","awardKey":"openai_model","createTime":"2024-06-01 05:34:36","updateTime":"2024-06-01 05:34:36"},{"awardConfig":"GPT-4、DALLE-2、DALLE-3","awardDesc":"获得全部openai模型","awardId":"108","awardKey":"openai_model","createTime":"2024-06-01 05:36:18","updateTime":"2024-06-01 05:36:18"}]
+24-06-02.21:41:13.250 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-06-02.21:41:13.257 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-06-02.21:41:54.140 [main            ] INFO  AwardTest              - Starting AwardTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 9108 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-02.21:41:54.141 [main            ] INFO  AwardTest              - The following 1 profile is active: "dev"
+24-06-02.21:41:56.620 [main            ] INFO  AwardTest              - Started AwardTest in 2.931 seconds (JVM running for 3.694)
+24-06-02.21:41:57.375 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-06-02.21:41:57.718 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-06-02.21:41:57.959 [main            ] INFO  AwardTest              - 结果：[{"awardConfig":"1,100","awardDesc":"用户积分","awardId":"101","awardKey":"user_credit_random","createTime":1717190449000,"updateTime":1717190449000},{"awardConfig":"5","awardDesc":"openai增加使用次数","awardId":"102","awardKey":"openai_user_count","createTime":1717190500000,"updateTime":1717190500000},{"awardConfig":"10","awardDesc":"openai增加使用次数","awardId":"103","awardKey":"openai_user_count","createTime":1717190567000,"updateTime":1717190567000},{"awardConfig":"20","awardDesc":"openai增加使用次数","awardId":"104","awardKey":"openai_user_count","createTime":1717190630000,"updateTime":1717190630000},{"awardConfig":"GPT-4","awardDesc":"获得openai模型","awardId":"105","awardKey":"openai_model","createTime":1717191157000,"updateTime":1717191157000},{"awardConfig":"DALLE-2","awardDesc":"获得openai模型","awardId":"106","awardKey":"openai_model","createTime":1717191241000,"updateTime":1717191241000},{"awardConfig":"DALLE-3","awardDesc":"获得openai模型","awardId":"107","awardKey":"openai_model","createTime":1717191276000,"updateTime":1717191276000},{"awardConfig":"GPT-4、DALLE-2、DALLE-3","awardDesc":"获得全部openai模型","awardId":"108","awardKey":"openai_model","createTime":1717191378000,"updateTime":1717191378000}]
+24-06-02.21:41:57.970 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-06-02.21:41:57.977 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-06-02.21:42:43.893 [main            ] INFO  ApiTest                - Starting ApiTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 7312 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-02.21:42:43.895 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-06-02.21:42:46.405 [main            ] INFO  ApiTest                - Started ApiTest in 2.926 seconds (JVM running for 3.928)
+24-06-02.21:42:46.988 [main            ] INFO  ApiTest                - 测试完成
+24-06-02.21:42:47.058 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-06-02.21:42:47.478 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-06-02.21:42:47.713 [main            ] INFO  AwardTest              - 结果：[{"awardConfig":"1,100","awardDesc":"用户积分","awardId":"101","awardKey":"user_credit_random","createTime":1717190449000,"updateTime":1717190449000},{"awardConfig":"5","awardDesc":"openai增加使用次数","awardId":"102","awardKey":"openai_user_count","createTime":1717190500000,"updateTime":1717190500000},{"awardConfig":"10","awardDesc":"openai增加使用次数","awardId":"103","awardKey":"openai_user_count","createTime":1717190567000,"updateTime":1717190567000},{"awardConfig":"20","awardDesc":"openai增加使用次数","awardId":"104","awardKey":"openai_user_count","createTime":1717190630000,"updateTime":1717190630000},{"awardConfig":"GPT-4","awardDesc":"获得openai模型","awardId":"105","awardKey":"openai_model","createTime":1717191157000,"updateTime":1717191157000},{"awardConfig":"DALLE-2","awardDesc":"获得openai模型","awardId":"106","awardKey":"openai_model","createTime":1717191241000,"updateTime":1717191241000},{"awardConfig":"DALLE-3","awardDesc":"获得openai模型","awardId":"107","awardKey":"openai_model","createTime":1717191276000,"updateTime":1717191276000},{"awardConfig":"GPT-4、DALLE-2、DALLE-3","awardDesc":"获得全部openai模型","awardId":"108","awardKey":"openai_model","createTime":1717191378000,"updateTime":1717191378000}]
+24-06-02.21:42:47.749 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-06-02.21:42:47.756 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-06-02.21:44:32.824 [main            ] INFO  ApiTest                - Starting ApiTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 25772 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-02.21:44:32.825 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-06-02.21:44:35.350 [main            ] INFO  ApiTest                - Started ApiTest in 2.916 seconds (JVM running for 3.904)
+24-06-02.21:44:36.106 [main            ] INFO  ApiTest                - 测试完成
+24-06-02.21:44:36.168 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-06-02.21:44:36.656 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-06-02.21:44:36.845 [main            ] INFO  AwardTest              - 结果：[{"awardConfig":"1,100","awardDesc":"用户积分","awardId":"101","awardKey":"user_credit_random","createTime":1717190449000,"updateTime":1717190449000},{"awardConfig":"5","awardDesc":"openai增加使用次数","awardId":"102","awardKey":"openai_user_count","createTime":1717190500000,"updateTime":1717190500000},{"awardConfig":"10","awardDesc":"openai增加使用次数","awardId":"103","awardKey":"openai_user_count","createTime":1717190567000,"updateTime":1717190567000},{"awardConfig":"20","awardDesc":"openai增加使用次数","awardId":"104","awardKey":"openai_user_count","createTime":1717190630000,"updateTime":1717190630000},{"awardConfig":"GPT-4","awardDesc":"获得openai模型","awardId":"105","awardKey":"openai_model","createTime":1717191157000,"updateTime":1717191157000},{"awardConfig":"DALLE-2","awardDesc":"获得openai模型","awardId":"106","awardKey":"openai_model","createTime":1717191241000,"updateTime":1717191241000},{"awardConfig":"DALLE-3","awardDesc":"获得openai模型","awardId":"107","awardKey":"openai_model","createTime":1717191276000,"updateTime":1717191276000},{"awardConfig":"GPT-4、DALLE-2、DALLE-3","awardDesc":"获得全部openai模型","awardId":"108","awardKey":"openai_model","createTime":1717191378000,"updateTime":1717191378000}]
+24-06-02.21:44:36.910 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-06-02.21:44:36.918 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
