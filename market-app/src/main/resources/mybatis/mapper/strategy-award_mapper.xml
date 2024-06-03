@@ -22,8 +22,19 @@
                award.create_time,
                award.update_time
         from award
-        limit 10
 
+        limit 10
+    </select>
+
+    <select id="queryStrategyAwardList" resultMap="dataMap">
+        select strategy.strategy_id,
+               award.award_id,
+               award.award_desc,
+               strategy_award.award_count,
+               strategy_award.award_count_surplus,
+               strategy_award.award_rate
+        from strategy_award
+        where strategy_id = #{strategyId}
     </select>
 
 </mapper>
