@@ -21,7 +21,7 @@ public class StrategyAwardEntity {
     private Long strategyId ;
 
     //奖品id
-    private String awardId ;
+    private Integer awardId ;
 
     //奖品数量
     private Integer awardCount;

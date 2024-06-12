@@ -5,6 +5,8 @@ import org.springframework.web.bind.annotation.Mapping;
 public interface IStrategyArmory {
 
 
-    void assemLottery(Long strategyId);
+    boolean assemLottery(Long strategyId);
+
+    Integer getRandomAwardId(Long strategyId);
 
 }
