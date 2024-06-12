@@ -12,6 +12,17 @@
         <result column="update_time" property="updateTime"/>
     </resultMap>
 
+    <resultMap id="one" type="org.example.infrastructure.persistent.po.StrategyAward">
+        <id column="id" property="id"/>
+        <result column="award_id" property="awardId"/>
+        <result column="strategy_id" property="strategyId"/>
+        <result column="award_count" property="awardCount"/>
+        <result column="award_count_surplus" property="awardCountSurplus"/>
+        <result column="award_rate" property="awardRate"/>
+        <result column="create_time" property="createTime"/>
+        <result column="update_time" property="updateTime"/>
+    </resultMap>
+
 
     <select id="queryAwardList" resultMap="dataMap">
 
@@ -26,10 +37,9 @@
         limit 10
     </select>
 
-    <select id="queryStrategyAwardList" resultMap="dataMap">
-        select strategy.strategy_id,
-               award.award_id,
-               award.award_desc,
+    <select id="queryStrategyAwardList" resultMap="one">
+        select strategy_award.strategy_id,
+               strategy_award.award_id,
                strategy_award.award_count,
                strategy_award.award_count_surplus,
                strategy_award.award_rate

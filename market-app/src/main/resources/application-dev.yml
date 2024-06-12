@@ -30,6 +30,11 @@ spring:
     connection-test-query: SELECT 1
   type: com.zaxxer.hikari.HikariDataSource
 
+  redis:
+    port: 16379
+    host: 127.0.0.1
+
+
 # MyBatis 配置【如需使用记得打开】
 mybatis:
   mapper-locations: classpath:/mybatis/mapper/*.xml
