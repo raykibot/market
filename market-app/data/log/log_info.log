@@ -791,3 +791,70 @@ Caused by: java.net.ConnectException: Connection refused: no further information
 24-06-12.20:45:38.445 [main            ] INFO  ApiTest                - 测试结果：101
 24-06-12.20:45:38.448 [main            ] INFO  ApiTest                - 测试结果：101
 24-06-12.20:45:38.450 [main            ] INFO  ApiTest                - 测试结果：102
+24-06-12.20:49:18.150 [main            ] INFO  ApiTest                - Starting ApiTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 23876 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-12.20:49:18.151 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-06-12.20:49:18.901 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-06-12.20:49:18.904 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-06-12.20:49:18.947 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+24-06-12.20:49:20.137 [main            ] INFO  Version                - Redisson 3.23.4
+24-06-12.20:49:20.583 [redisson-netty-2-4] INFO  MasterPubSubConnectionPool - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-06-12.20:49:20.641 [redisson-netty-2-19] INFO  MasterConnectionPool   - 24 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-06-12.20:49:22.367 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-06-12.20:49:22.429 [main            ] INFO  ApiTest                - Started ApiTest in 4.656 seconds (JVM running for 5.31)
+24-06-12.20:49:22.909 [main            ] INFO  ApiTest                - 测试结果：102
+24-06-12.20:49:22.913 [main            ] INFO  ApiTest                - 测试结果：101
+24-06-12.20:49:22.916 [main            ] INFO  ApiTest                - 测试结果：102
+24-06-12.20:49:41.908 [main            ] INFO  ApiTest                - Starting ApiTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 5400 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-12.20:49:41.909 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-06-12.20:49:42.703 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-06-12.20:49:42.706 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-06-12.20:49:42.734 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+24-06-12.20:49:43.812 [main            ] INFO  Version                - Redisson 3.23.4
+24-06-12.20:49:44.327 [redisson-netty-2-4] INFO  MasterPubSubConnectionPool - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-06-12.20:49:44.392 [redisson-netty-2-19] INFO  MasterConnectionPool   - 24 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-06-12.20:49:45.866 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-06-12.20:49:45.920 [main            ] INFO  ApiTest                - Started ApiTest in 4.38 seconds (JVM running for 5.026)
+24-06-12.20:49:46.406 [main            ] INFO  ApiTest                - 测试结果：107
+24-06-12.20:49:46.409 [main            ] INFO  ApiTest                - 测试结果：107
+24-06-12.20:49:46.411 [main            ] INFO  ApiTest                - 测试结果：104
+24-06-12.20:51:27.694 [main            ] INFO  AwardTest              - Starting AwardTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 16744 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-12.20:51:27.695 [main            ] INFO  AwardTest              - The following 1 profile is active: "dev"
+24-06-12.20:51:28.404 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-06-12.20:51:28.407 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-06-12.20:51:28.430 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+24-06-12.20:51:29.675 [main            ] INFO  Version                - Redisson 3.23.4
+24-06-12.20:51:30.263 [redisson-netty-2-4] INFO  MasterPubSubConnectionPool - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-06-12.20:51:30.355 [redisson-netty-2-19] INFO  MasterConnectionPool   - 24 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-06-12.20:51:32.373 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-06-12.20:51:32.434 [main            ] INFO  AwardTest              - Started AwardTest in 5.131 seconds (JVM running for 5.775)
+24-06-12.20:51:32.990 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-06-12.20:51:33.232 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-06-12.20:51:33.415 [main            ] INFO  AwardTest              - 结果：[{"awardConfig":"1,100","awardDesc":"用户积分","awardId":"101","awardKey":"user_credit_random","createTime":1717190449000,"updateTime":1717190449000},{"awardConfig":"5","awardDesc":"openai增加使用次数","awardId":"102","awardKey":"openai_user_count","createTime":1717190500000,"updateTime":1717190500000},{"awardConfig":"10","awardDesc":"openai增加使用次数","awardId":"103","awardKey":"openai_user_count","createTime":1717190567000,"updateTime":1717190567000},{"awardConfig":"20","awardDesc":"openai增加使用次数","awardId":"104","awardKey":"openai_user_count","createTime":1717190630000,"updateTime":1717190630000},{"awardConfig":"GPT-4","awardDesc":"获得openai模型","awardId":"105","awardKey":"openai_model","createTime":1717191157000,"updateTime":1717191157000},{"awardConfig":"DALLE-2","awardDesc":"获得openai模型","awardId":"106","awardKey":"openai_model","createTime":1717191241000,"updateTime":1717191241000},{"awardConfig":"DALLE-3","awardDesc":"获得openai模型","awardId":"107","awardKey":"openai_model","createTime":1717191276000,"updateTime":1717191276000},{"awardConfig":"GPT-4、DALLE-2、DALLE-3","awardDesc":"获得全部openai模型","awardId":"108","awardKey":"openai_model","createTime":1717191378000,"updateTime":1717191378000}]
+24-06-12.20:51:33.468 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-06-12.20:51:33.478 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-06-12.20:52:10.679 [main            ] INFO  ApiTest                - Starting ApiTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 26480 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-12.20:52:10.681 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-06-12.20:52:11.429 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-06-12.20:52:11.432 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-06-12.20:52:11.454 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+24-06-12.20:52:12.713 [main            ] INFO  Version                - Redisson 3.23.4
+24-06-12.20:52:13.354 [redisson-netty-2-4] INFO  MasterPubSubConnectionPool - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-06-12.20:52:13.437 [redisson-netty-2-19] INFO  MasterConnectionPool   - 24 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-06-12.20:52:15.204 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-06-12.20:52:15.265 [main            ] INFO  ApiTest                - Started ApiTest in 4.981 seconds (JVM running for 5.64)
+24-06-12.20:52:15.775 [main            ] INFO  ApiTest                - 测试结果：107
+24-06-12.20:52:15.779 [main            ] INFO  ApiTest                - 测试结果：101
+24-06-12.20:52:15.782 [main            ] INFO  ApiTest                - 测试结果：101
+24-06-12.20:52:40.556 [main            ] INFO  ApiTest                - Starting ApiTest using Java 17.0.8.1 on DESKTOP-K3IERDE with PID 5336 (started by 86176 in C:\Users\86176\Desktop\algorithm\market\market-app)
+24-06-12.20:52:40.557 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-06-12.20:52:41.342 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-06-12.20:52:41.345 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-06-12.20:52:41.372 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+24-06-12.20:52:42.652 [main            ] INFO  Version                - Redisson 3.23.4
+24-06-12.20:52:43.124 [redisson-netty-2-4] INFO  MasterPubSubConnectionPool - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-06-12.20:52:43.187 [redisson-netty-2-19] INFO  MasterConnectionPool   - 24 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-06-12.20:52:45.169 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-06-12.20:52:45.231 [main            ] INFO  ApiTest                - Started ApiTest in 5.096 seconds (JVM running for 5.79)
+24-06-12.20:52:45.738 [main            ] INFO  ApiTest                - 测试结果：103
+24-06-12.20:52:45.741 [main            ] INFO  ApiTest                - 测试结果：107
+24-06-12.20:52:45.743 [main            ] INFO  ApiTest                - 测试结果：101
